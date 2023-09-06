@@ -1,7 +1,7 @@
 # COI Energy BACKEND TASK
 
-##Completed the API calls mentioned in the Backend Task &
-##Wrote Unit tests for all the API calls as well
+Completed the API calls mentioned in the Backend Task &
+Wrote Unit tests for all the API calls as well
 
 steps to run Unit tests:
 1.'npm install'
