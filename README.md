@@ -3,12 +3,12 @@
 Completed the API calls mentioned in the Backend Task &
 Wrote Unit tests for all the API calls as well
 
-steps to run Unit tests:
+Steps to run Unit tests:
 1.'npm install'
 2.'npm run seed'
 3.'npm test'
 
-
+Also added unitTests.png to the repository, a screenshot of the test results
 --Previous ReadME content--
 Welcome! 🎉
 
